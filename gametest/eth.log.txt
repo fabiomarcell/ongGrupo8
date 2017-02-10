@@ -1,0 +1,11 @@
+[C:\Users\Fabio Marcell\Desktop\gama\ong\gametest\eth.log.txt]
+Backbuffer created as 1024, 768 on default backbuffer mode
+____________________________
+
+Loading game script from source-code: main.angelscript
+
+
+Compile time: 0 milliseconds
+(Loaded) sea.png
+(Loaded) ship.png
+(Loaded) shot.png

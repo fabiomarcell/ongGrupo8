@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<Ethanon>
+    <SceneProperties lightIntensity="2" parallaxIntensity="20">
+        <Ambient r="1" g="1" b="1" />
+        <ZAxisDirection x="0" y="-1" />
+    </SceneProperties>
+    <EntitiesInScene>
+        <Entity id="36" spriteFrame="0">
+            <EntityName>sea.ent</EntityName>
+            <Position x="1219" y="345" z="-20" angle="0" />
+            <Entity>
+                <FileName>sea.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="1" spriteFrame="0">
+            <EntityName>ship.ent</EntityName>
+            <Position x="380" y="375" z="0" angle="0" />
+            <Entity>
+                <FileName>ship.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+        <Entity id="2" spriteFrame="0">
+            <EntityName>shot.ent</EntityName>
+            <Position x="340" y="459" z="0" angle="0" />
+            <Entity>
+                <FileName>shot.ent</FileName>
+                <CustomData />
+            </Entity>
+        </Entity>
+    </EntitiesInScene>
+</Ethanon>
